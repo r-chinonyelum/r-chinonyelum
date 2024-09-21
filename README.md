@@ -11,7 +11,7 @@
 
 - 🪴 Pronouns **She/Her**
 
-- 📫 Send a [mail](norosemary@gmail.com)
+- 📫 Send a mail **norosemary@gmail.com**
 
 - ⚡ Fun fact **I thought I'd be taller**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/chinonyelum__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinonyelum__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chinonyelum-igwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinonyelum-igwe" height="30" width="40" /></a>
-<a href="https://medium.com/lumnolar@medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="lumnolar@medium.com" height="30" width="40" /></a>
+<a href="https://medium.com/@lumnolar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="lumnolar@medium.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
