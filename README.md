@@ -5,7 +5,7 @@
 
 - ⛷️ I’m looking to collaborate on **Projects at the intersection of ML and healthcare**
 
-- 📝 Sometimes, I write articles on [Medium](medium.com/@lumnolar)
+- 📝 Sometimes, I write articles on [Medium](https://medium.com/@lumnolar)
 
 - 💬 Open to chat about **Space, Existence, Physics, Health, Failure and Happiness**
 
