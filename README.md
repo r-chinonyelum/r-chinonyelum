@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chinonyelum</h1>
-<h3 align="center">Final-Year Medical Student in Machine Learning Research</h3>
+<h3 align="center">Medical Doctor, Machine Learning Researcher</h3>
 
-- 🔭 In addition to graduating well :) I'm currently working on [Evaluating Bias in LLMs](https://github.com/chkla/the-language-effect)
+- 🔭 I'm currently working on defining, monitoring and evaluating machine learning models within the context of healthcare to ensure safety and fairness
 
 - ⛷️ I’m looking to collaborate on **Projects at the intersection of ML and healthcare**
 
@@ -13,7 +13,7 @@
 
 - 📫 Send a mail **norosemary@gmail.com**
 
-- ⚡ Fun fact **I thought I'd be taller**
+- ⚡ Fun fact **I am a Tolkien Fan and Potterhead**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
